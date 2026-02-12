@@ -5,7 +5,8 @@ I'm a Software & Networking Engineer student based in Canada.
 I love building clean interfaces, experimenting with new frameworks, and making ideas feel alive on the screen!
 
 ### 👀 What I’m into 
-I’m love doing front-end web development and anything that involves design (fun fact: I also draw).
+I love doing front-end web development and anything that involves design!
+
 Also found a liking to game development recently! 🎮 
 
 ### 🌱 What I’m learning Right now 

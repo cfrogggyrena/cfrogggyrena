@@ -13,7 +13,6 @@ Also found a liking to game development recently! 🎮
 - Object-detection with ML.
 - Swift on Xcode.
 
-
 ### 📫 Reach me at 
 Feel free to say hi or ask about my projects at camila.esguerra2506@gmail.com
 
